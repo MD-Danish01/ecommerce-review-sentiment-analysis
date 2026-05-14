@@ -95,14 +95,14 @@ ecommerce-review-sentiment-analysis/
 ├── README.md
 └── .gitignore
 ```
-##Sample Prediction
--Review: The product is amazing and delivery was fast
--Predicted Sentiment: Positive
+## Sample Prediction
+- Review: The product is amazing and delivery was fast
+- Predicted Sentiment: Positive
 
--Review: Worst product, completely waste of money
--Predicted Sentiment: Negative
+- Review: Worst product, completely waste of money
+- Predicted Sentiment: Negative
 
-##Results
+## Results
 
 The model was evaluated using test data.
 
